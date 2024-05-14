@@ -45,5 +45,29 @@ using Used_Car_Lot_Lab;
                 continue;
             }
         }
+        count = -1;
+        for (int i = 0; i < carInventory.Count; i++)
+        {
+          if (count == UserInput)
+    {
+        carInventory.RemoveAt(count);
+    }
+    else
+    {
+        count++;
+    }
+     
+
+
+            }
+           count = -1;
+foreach (Car c in carInventory)
+{
+    count++;
+    Console.WriteLine($"{count} {c.ToString()}");
+
+
+}
+
 
 

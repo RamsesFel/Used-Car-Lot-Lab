@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Used Car Lot Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E7CD5E-3E1A-40A7-A10D-3C389522A109}|Used Car Lot Lab\\Used Car Lot Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\used car lot lab\\used car lot lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E7CD5E-3E1A-40A7-A10D-3C389522A109}|Used Car Lot Lab\\Used Car Lot Lab.csproj|solutionrelative:used car lot lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Used Car Lot Lab\\Used Car Lot Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Used Car Lot Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Used Car Lot Lab\\Used Car Lot Lab\\Program.cs",
+              "RelativeToolTip": "Used Car Lot Lab\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:12:29.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

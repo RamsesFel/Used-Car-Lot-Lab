@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Used Car Lot Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+486d8eb14bb3463e9af841a14acbffad63490843")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a213c6e043328962ccfed8a28c5cfd4bb505d00")]
 [assembly: System.Reflection.AssemblyProductAttribute("Used Car Lot Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Used Car Lot Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

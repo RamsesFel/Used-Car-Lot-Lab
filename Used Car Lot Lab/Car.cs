@@ -14,7 +14,7 @@ namespace Used_Car_Lot_Lab
         public decimal Price { get; set; }
 
         //constructor 
-        public Car() 
+        public Car()
         {
 
             Make = "";
